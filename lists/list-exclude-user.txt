@@ -1,0 +1,2 @@
+domain.example.abc
+# Griffinaidarn/zaprEt-TELEgraM 40d65493bf2a
